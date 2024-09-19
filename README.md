@@ -1,5 +1,6 @@
 # resumolabAzure01
 resumo do lab da DIO
+
 Acessei a calculadora de TCO para estimar os custos de migração para a nuvem e validei a ferramenta do Azure, usando uma máquina virtual como exemplo. Identifiquei variações de preço conforme as estratégias de custos escolhidas e explorei a criação de alertas para monitoramento, além de confirmar a importância do uso de tags para rastrear os gastos por recurso. Essas práticas são essenciais para uma previsão eficiente dos custos.
 
 Os principais fatores que afetam os custos no Azure são:
